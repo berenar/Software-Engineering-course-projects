@@ -1,1 +1,1 @@
-#Práctica final A.C.S.I.
+# Práctica final de la asignatura Avaluació del Comportament de Sistemes Informàtics
