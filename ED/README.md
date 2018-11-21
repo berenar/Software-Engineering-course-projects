@@ -1,2 +1,2 @@
-# Data structures usage for a veterinary clinic
-Using trees, heaps, queues and tries
+# Veterinary clinic register using data structures
+such as trees, heaps, queues and tries
