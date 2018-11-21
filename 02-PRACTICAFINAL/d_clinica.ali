@@ -1,0 +1,244 @@
+V "GNAT Lib v2016"
+P SS ZX
+
+RN
+RV NO_ENUMERATION_MAPS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_IO
+RV NO_SECONDARY_STACK
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_ELABORATION_CODE
+RV SPARK_05
+
+U d_clinica%b		d_clinica.adb		8f1d0944 NE OO PK IL
+W interfaces%s		interfac.ads		interfac.ali
+W system%s		system.ads		system.ali
+W system.concat_2%s	s-conca2.adb		s-conca2.ali
+W system.img_enum_new%s	s-imenne.adb		s-imenne.ali
+W system.img_int%s	s-imgint.adb		s-imgint.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+
+U d_clinica%s		d_clinica.ads		07fa87d0 EE OO PK IL
+W ada%s			ada.ads			ada.ali
+Z ada.containers%s	a-contai.ads		a-contai.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+Z ada.strings%s		a-string.ads		a-string.ali
+Z ada.strings.hash%s	a-strhas.adb		a-strhas.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z d_arbre%s		d_arbre.adb		d_arbre.ali
+W d_consulta%s		d_consulta.adb		d_consulta.ali  AD
+Z d_heap%s		d_heap.adb		d_heap.ali
+W d_historial_mascota%s	d_historial_mascota.adb	d_historial_mascota.ali
+W d_historial_visita%s	d_historial_visita.adb	d_historial_visita.ali  AD
+W d_sala_espera%s	d_sala_espera.adb	d_sala_espera.ali  AD
+W defs_general%s	defs_general.ads	defs_general.ali
+W interfaces%s		interfac.ads		interfac.ali
+W pparaula%s		pparaula.adb		pparaula.ali
+W system%s		system.ads		system.ali
+W system.concat_2%s	s-conca2.adb		s-conca2.ali
+W system.exception_table%s  s-exctab.adb	s-exctab.ali
+W system.img_bool%s	s-imgboo.adb		s-imgboo.ali
+W system.img_int%s	s-imgint.adb		s-imgint.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.standard_library%s  s-stalib.adb	s-stalib.ali
+
+D ada.ads		20160516092928 3ffc8e18 ada%s
+D a-charac.ads		20160516092931 2d3ec45b ada.characters%s
+D a-chahan.ads		20160516092929 1601a50f ada.characters.handling%s
+D a-chlat1.ads		20160516092930 66457d31 ada.characters.latin_1%s
+D a-contai.ads		20160516092927 61e5e089 ada.containers%s
+D a-except.ads		20160516092928 291912d5 ada.exceptions%s
+D a-ioexce.ads		20160516092927 e4a01f64 ada.io_exceptions%s
+D a-numeri.ads		20160516092928 bb51c45a ada.numerics%s
+D a-nudira.ads		20160516092928 71e55def ada.numerics.discrete_random%s
+D a-stream.ads		20160516092929 119b8fb3 ada.streams%s
+D a-string.ads		20160516092930 90ac6797 ada.strings%s
+D a-strhas.ads		20160516092932 c71c2a52 ada.strings.hash%s
+D a-tags.ads		20160516092932 01f5e3ef ada.tags%s
+D a-textio.ads		20160516092932 386df5d4 ada.text_io%s
+D a-unccon.ads		20160516092931 f9eb8f06 ada.unchecked_conversion%s
+D d_arbre.ads		20170628043029 2686d305 d_arbre%s
+D d_arbre.adb		20170628042307 d120bd48 d_arbre%b
+D d_clinica.ads		20170628042527 d95f394f d_clinica%s
+D d_clinica.adb		20170628042318 5642300b d_clinica%b
+D d_consulta.ads	20170628043751 3a34f2c6 d_consulta%s
+D d_consulta.adb	20170628043603 aa04c253 d_consulta%b
+D d_heap.ads		20170628043757 a8f7478b d_heap%s
+D d_heap.adb		20170628042546 e8bf0b54 d_heap%b
+D d_historial_mascota.ads  20170628043822 87c9eb71 d_historial_mascota%s
+D d_historial_visita.ads  20170628043137 ce0b1916 d_historial_visita%s
+D d_historial_visita.adb  20170628043845 137e89a6 d_historial_visita%b
+D d_sala_espera.ads	20170628043159 65c23adb d_sala_espera%s
+D d_sala_espera.adb	20170628043857 87938225 d_sala_espera%b
+D defs_general.ads	20170628042944 9b4c57dd defs_general%s
+D interfac.ads		20160516092928 5ab55268 interfaces%s
+D i-cstrea.ads		20160516092927 e53d8b8e interfaces.c_streams%s
+D pparaula.ads		20170628022926 6bb026ec pparaula%s
+D system.ads		20160516092929 6326c08a system%s
+D s-conca2.ads		20160516092930 02a0d7d0 system.concat_2%s
+D s-crtl.ads		20160516092927 0ebbdb71 system.crtl%s
+D s-exctab.ads		20160516092931 54135002 system.exception_table%s
+D s-ficobl.ads		20160516092933 078245e4 system.file_control_block%s
+D s-imgboo.ads		20160516092927 f5d971eb system.img_bool%s
+D s-imenne.ads		20160516092929 614c06c0 system.img_enum_new%s
+D s-imgint.ads		20160516092928 02dbe0c2 system.img_int%s
+D s-parame.ads		20160516092932 7e2a0d7f system.parameters%s
+D s-rannum.ads		20160516092929 99ade2f2 system.random_numbers%s
+D s-secsta.ads		20160516092931 86a2856d system.secondary_stack%s
+D s-soflin.ads		20160516092929 14e1eb6c system.soft_links%s
+D s-stache.ads		20160516092932 a37c21ec system.stack_checking%s
+D s-stalib.ads		20160516092931 09bd3940 system.standard_library%s
+D s-stoele.ads		20160516092932 2dc34a04 system.storage_elements%s
+D s-traent.ads		20160516092928 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20160516092930 34867c83 system.unsigned_types%s
+D s-wchcon.ads		20160516092931 1b7d22d2 system.wch_con%s
+X 1 ada.ads
+16K9*Ada 19e8 18|2r59 4r34
+X 14 a-textio.ads
+49K13*Text_IO 471e16 18|2w63 4r38
+166U14*New_Line 19|51s9 123s9 126s9
+242U14*Put 19|39s9 49s9 50s9 77s9 78s9 106s25 121s9 122s9 124s9 125s9 149s9
+263U14*Put_Line 19|40s9 79s9 82s33 107s25 150s9
+X 16 d_arbre.ads
+14R14*set
+X 18 d_clinica.ads
+6K9*d_clinica 35E14 55l5 55e14 19|2b14 192l5 192t14
+8R14*base_datos 15r51 16r53 17r53 18r54 19r67 20r67 21r53 22r54 24r50 25r51
+. 26r60 27r61 29r55 30r52 31r52 48c14 53e19 19|8r37 19r39 27r39 35r40 45r52
+. 60r52 72r39 89r42 99r40 132r36 139r37 146r46 156r47 165r41 180r37 187r38
+9R14*visita 18r70 22r71 23r47 28r38 35c14 39e19 43r50 45r44 19|35r56 73r3
+. 89r58 99r57 116r33 173r23
+10X9*mal_argumento
+11X9*no_disponible
+12X9*space_overflow
+13X9*malos_usos
+15U25*iniciar_clinica 15=41 19|8b11 17l5 17t20
+15r41 bd{8R14} 19|8b27 10m30 10r30 11m35 11r35 12m25 12r25 14m31 14r31
+16U25*imprimirConsultas 16=43 19|19b11 22l5 22t22
+16r43 bd{8R14} 19|19b29 21m27 21r27
+17U25*registrar_mascota 17=43 17>65 17>87 17<103 19|27b11 31l5 31t22
+17r43 bd{8R14} 19|27b29 28m33 28r33
+17a65 name{29|25A9} 19|27b51 30r36
+17e87 tv{29|49E6} 19|27b73
+17i103 id{29|16I6} 19|27b89 30m41
+18U25*poner_lista_espera 18=44 18>65 19|35b11 41l5 41t23
+18r44 bd{8R14} 19|35b30 38m34 38r34
+18r65 v{9R14} 19|35b51 38r40 38r42 40r18
+19V25*disponibilidad_consulta_abierta{integer} 19=57 19<78 19|45b10 56l5
+. 56t36
+19r57 bd{8R14} 19|45b42 48m48 48r48
+19i78 n{29|45I6} 19|45b63 52m9
+20V25*disponibilidad_consulta_cerrada{integer} 20=57 20<78 19|60b10 68l5
+. 68t36
+20r57 bd{8R14} 19|60b42 63m46 63r46
+20i78 n{29|45I6} 19|60b63 64m9
+21U25*insertar_consulta 21=43 21>64 19|72b11 84l5 84t22
+21r43 bd{8R14} 19|72b29 75m32 75r32 76m34 76r34
+21i64 n{29|45I6} 19|72b50 76r40 78r28
+22U25*decrementar_ciclos 22=44 22<65 22>78 19|99b11 112l5 112t23
+22r44 bd{8R14} 19|99b30 103m38 103r38 105m46 109m42
+22r65 v{9R14} 19|99b51 103m46 105r49 107r34
+22i78 id{29|16I6} 19|99b64 109r45
+23U25*rellenar_visita 23<41 23>54 23>67 23>87 19|116b11 128l5 128t20
+23r41 v{9R14} 19|116b27 118m9 119m9 120m9
+23i54 i{29|16I6} 19|116b40 118r23
+23a67 name{29|25A9} 19|116b53 119r16 122r13
+23e87 tvis{29|49E6} 19|116b73 120r15 125r27
+24U25*abrir_consulta 24=40 24>61 19|132b11 135l5 135t19
+24r40 bd{8R14} 19|132b26 134m33 134r33
+24i61 n{29|45I6} 19|132b47 134r39
+25U25*cerrar_consulta 25=41 25>62 19|139b11 142l5 142t20
+25r41 bd{8R14} 19|139b27 141m34 141r34
+25i62 n{29|45I6} 19|139b48 141r40
+26U25*mostrar_historial_visita 26=50 26>71 19|146b11 152l5 152t29
+26r50 bd{8R14} 19|146b36 151m27 151r27
+26e71 tv{29|49E6} 19|146b57 150r32 151r33
+27U25*mostrar_historial_mascota 27=51 27>72 19|156b11 161l5 161t30
+27r51 bd{8R14} 19|156b37 159m27 159r27
+27a72 name{29|25A9} 19|156b58 159r33
+28V25*print{string} 28>31 43r57 19|173b10 176l5 176t10
+28r31 x1{9R14} 19|173b16 175r16
+29U25*mostrar_sala_espera 29=45 19|165b11 169l5 169t24
+29r45 bd{8R14} 19|165b31 168m28 168r28
+30V25*comprobar_dentro{boolean} 30=42 30>63 19|180b10 183l13 183t29
+30r42 bd{8R14} 19|180b27 182m53 182r53
+30i63 id{29|16I6} 19|180b48 182r59
+31U25*modificar_dentro 31=42 31>63 31>77 19|109s25 187b11 190l5 190t21
+31r42 bd{8R14} 19|187b28 189m46 189r46
+31i63 id{29|16I6} 19|187b49 189r52
+31b77 b{boolean} 19|187b63 189r55
+36i9*identifier{29|16I6} 19|92r44 94r43 118m11
+37a9*nom{29|25A9} 19|40r20 79r20 94r56 107r36 119m11 175r19
+38e9*tv{29|49E6} 19|38r44 75r42 76r44 92r57 94r38 120m11
+41K17 historial_visita[25|11] 42r13 19|94r9
+43K17 sala_espera[27|8] 44r13 19|38r9 75r9
+45K17 consulta[20|7] 46r13 19|10r9 48r24 63r23 76r9 103r17 134r9 141r9
+49r17*tn{24|4R14} 19|11m38 28m36 90m36 92m39 159m30 182m56 189m49
+50r17*ls{27|9R14[43]} 19|12m28 38m37 75m35 168m31
+51a17*hv{25|14A14[41]} 19|14m34 94m33 151m30
+52r17*cn{20|10R14[45]} 19|10m33 21m30 48m51 63m49 76m37 103m41 134m36 141m37
+X 19 d_clinica.adb
+13e13 i{29|49E6} 14r37
+28r9 tn{24|4R14} 30r33
+46i9 primera_libre{29|45I6} 48m9 50r28 52r12
+61i9 primera_cerr{29|45I6} 63m9 64r12
+73r1 v{18|9R14} 75m38 75r40 76r42 76m47 76r47 79r18
+89U11 actualizar_historial 89b11 89=32 89>53 95l5 95t25 105s25
+89r32 bd{18|8R14} 90r33 92m36 92r36 94m30 94r30
+89r53 v{18|9R14} 92r42 92r55 94r36 94r41 94r54
+90r9 tn{24|4R14}
+100i1 alerta{integer} 103m48 104r20
+102i13 i{29|45I6} 103r44
+X 20 d_consulta.ads
+7k9*d_consulta 18|2w25 45r33 20|40e15
+9X9*no_consulta_disponible 19|55r14[18|45] 67r14[18|45]
+10R14*consultas 18|52r21[45]
+12U25*iniciarCons 19|10s18[18|45]
+13U25*imprimirConsultas 19|21s9[18|45]
+14U25*abrir_consulta 19|134s18[18|45]
+15U25*cerrar_consulta 19|141s18[18|45]
+16U25*llenar_consulta 19|76s18[18|45]
+17U25*decr_ciclos 19|103s26[18|45]
+18V25*consulta_libre{29|45I6} 19|48s33[18|45]
+19V25*consulta_cerr{29|45I6} 19|63s32[18|45]
+X 22 d_heap.ads
+8R14*priority_queue
+X 24 d_historial_mascota.ads
+3K9*d_historial_mascota 18|1w19 4r5 19|11r9 30r9 92r9 182r16 189r9 24|55e24
+4R14*names_table 18|49r21 19|28r13 90r13 24|53e11
+8U25*empty 19|11s29
+9U25*put 19|30s29
+11U25*putHis 19|92s29
+12U25*mostrar_historial 19|159s9
+13V25*comprobar_dentro{boolean} 19|182s36
+14U25*modificar_dentro 19|189s29
+X 25 d_historial_visita.ads
+11k9*d_historial_visita 18|2w6 41r41 25|38e23
+14A14*hvis(31R14[18|41]) 18|51r21[41]
+18U25*put 19|94s26[18|41]
+19U25*prepararArray 19|14s17[18|41]
+20U25*mostrar_historial 19|151s9[18|41]
+31R14*mset<16|14R14[29[18|41]]>
+X 27 d_sala_espera.ads
+8k9*d_sala_espera 18|2w36 43r36 27|33e18
+9R14*lista_espera<22|8R14[28[18|43]]> 18|50r21[43]
+12X9*mal_uso 19|82r22[18|43]
+14U19*preparar_espera 19|12s9[18|43]
+15U19*encolar_masc 19|38s21[18|43]
+16U19*desencolar 19|75s21[18|43]
+17U19*imprimir_historial 19|168s9[18|43]
+X 29 defs_general.ads
+4K9*defs_general 18|1w6 3r5 29|51e17
+16I6*name_id<integer> 18|17r111 22r84 23r59 30r69 31r69 36r21 41r60 19|27r97
+. 99r70 116r45 180r54 187r55
+25A9*char_string{string}<integer> 18|17r74 23r75 27r81 37r13 19|27r60 116r61
+. 156r67
+45I6*num_cons<integer> 18|19r84 20r84 21r69 24r67 25r68 19|45r69 46r23 50r13
+. 60r69 61r22 72r55 78r13 102r18 132r53 139r54
+49E6*tvisita 18|17r94 23r95 26r77 38r12 19|13r18 27r80 116r81 125r13 146r63
+. 150r18 29|49e29
+X 32 pparaula.ads
+10K9*pparaula 18|2w50 4r25 32|102e13
+

@@ -1,0 +1,124 @@
+V "GNAT Lib v2016"
+P ZX
+
+RN
+RV NO_ALLOCATORS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_IO
+RV NO_LOCAL_ALLOCATORS
+RV NO_RECURSION
+RV NO_STANDARD_STORAGE_POOLS
+RV SPARK_05
+
+U d_arbre%b		d_arbre.adb		7978b678 NE OO PK GE IL
+W ada%s			ada.ads			ada.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.hash%s	a-strhas.adb		a-strhas.ali
+W d_historial_mascota%s	d_historial_mascota.adb	d_historial_mascota.ali
+W d_historial_visita%s	d_historial_visita.adb	d_historial_visita.ali
+
+U d_arbre%s		d_arbre.ads		e4429185 BN EE NE OO PK GE
+W ada%s			ada.ads			ada.ali
+W ada.containers%s	a-contai.ads		a-contai.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W defs_general%s	defs_general.ads	defs_general.ali
+
+D ada.ads		20160516092928 3ffc8e18 ada%s
+D a-charac.ads		20160516092931 2d3ec45b ada.characters%s
+D a-chahan.ads		20160516092929 1601a50f ada.characters.handling%s
+D a-chlat1.ads		20160516092930 66457d31 ada.characters.latin_1%s
+D a-contai.ads		20160516092927 61e5e089 ada.containers%s
+D a-except.ads		20160516092928 291912d5 ada.exceptions%s
+D a-ioexce.ads		20160516092927 e4a01f64 ada.io_exceptions%s
+D a-numeri.ads		20160516092928 bb51c45a ada.numerics%s
+D a-nudira.ads		20160516092928 71e55def ada.numerics.discrete_random%s
+D a-stream.ads		20160516092929 119b8fb3 ada.streams%s
+D a-string.ads		20160516092930 90ac6797 ada.strings%s
+D a-strhas.ads		20160516092932 c71c2a52 ada.strings.hash%s
+D a-tags.ads		20160516092932 01f5e3ef ada.tags%s
+D a-textio.ads		20160516092932 386df5d4 ada.text_io%s
+D a-unccon.ads		20160516092931 f9eb8f06 ada.unchecked_conversion%s
+D d_arbre.ads		20170628043029 2686d305 d_arbre%s
+D d_arbre.adb		20170628042307 d120bd48 d_arbre%b
+D d_historial_mascota.ads  20170628043822 87c9eb71 d_historial_mascota%s
+D d_historial_visita.ads  20170628043137 ce0b1916 d_historial_visita%s
+D d_historial_visita.adb  20170628043845 137e89a6 d_historial_visita%b
+D defs_general.ads	20170628042944 9b4c57dd defs_general%s
+D interfac.ads		20160516092928 5ab55268 interfaces%s
+D i-cstrea.ads		20160516092927 e53d8b8e interfaces.c_streams%s
+D pparaula.ads		20170628022926 6bb026ec pparaula%s
+D system.ads		20160516092929 6326c08a system%s
+D s-crtl.ads		20160516092927 0ebbdb71 system.crtl%s
+D s-exctab.ads		20160516092931 54135002 system.exception_table%s
+D s-ficobl.ads		20160516092933 078245e4 system.file_control_block%s
+D s-parame.ads		20160516092932 7e2a0d7f system.parameters%s
+D s-rannum.ads		20160516092929 99ade2f2 system.random_numbers%s
+D s-soflin.ads		20160516092929 14e1eb6c system.soft_links%s
+D s-stache.ads		20160516092932 a37c21ec system.stack_checking%s
+D s-stalib.ads		20160516092931 09bd3940 system.standard_library%s
+D s-stoele.ads		20160516092932 2dc34a04 system.storage_elements%s
+D s-traent.ads		20160516092928 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20160516092930 34867c83 system.unsigned_types%s
+D s-wchcon.ads		20160516092931 1b7d22d2 system.wch_con%s
+X 1 ada.ads
+16K9*Ada 19e8 16|1r6 1r35 2r5 2r34 17|1r6 1r28
+X 5 a-contai.ads
+16K13*Containers 24e19 16|1w10 2r9
+19M9*Hash_Type
+X 11 a-string.ads
+16K13*Strings 35e16 17|1r10 1r32
+X 12 a-strhas.ads
+20V22*Hash{5|19M9} 17|1w18
+X 14 a-textio.ads
+49K13*Text_IO 471e16 16|1w39 2r38
+242U14*Put 17|44s9 66s9
+263U14*Put_Line 17|54s42 67s9
+X 16 d_arbre.ads
+7+14 clave 9r37 10r37 19r42 27r28 17|17r38 34r34
+8+14 item 11r35 19r53 28r27 17|17r49 34r45
+9V24 "<"{boolean} 9>27 9>30 17|23s13
+9*27 k1{7+14}
+9*30 k2{7+14}
+10V24 ">"{boolean} 10>27 10>30 17|24s24
+10*27 k1{7+14}
+10*30 k2{7+14}
+11V23 Image{string} 11>29 17|44s13
+11*29 a{8+14}
+13k9*d_arbre 7z14 8z14 9z24 10z24 11z23 23E14 37l5 37e12 17|5b14 70l5 70t12
+14R14*set 18r33 19r33 20r39 33c14 35e19 17|9r23 34r25 61r31
+15X9*ya_existe
+16X9*space_overflow 17|29r37
+18U19*empty 18<26 17|9b11 13l5 13t10
+18r26 s{14R14} 17|9b17 10m29 10r29
+19U19*put 19=23 19>37 19>48 17|34b11 38l5 38t8
+19r23 s{14R14} 17|34b15 37m13 37r13
+19*37 k{7+14} 17|34b29 37r20
+19*48 x{8+14} 17|34b40 37r22
+20U19*traversal 20=29 17|61b11 68l5 68t14
+20r29 s{14R14} 17|61b21 65m19 65r19
+23R14 node 24r30 25c14 31e27 17|20r25
+24P14 pnode(23R14) 30r32 34r22 17|10r15 17r25 42r30
+27*25 k{7+14} 17|23r16 24r27
+28*25 x{8+14} 17|44r21
+29i25 q{integer} 17|25m24 25r29
+30p25 lc{24P14} 17|23m29 46r14 47m29
+30p28 rc{24P14} 17|24m40 50r14 51m29
+34p17 root{24P14} 17|10m31 37m15 65m21
+X 17 d_arbre.adb
+10p9 root{16|24P14} 12r9
+17U11 put 17b11 17=15 17>32 17>44 23s23 24s34 30l5 30t8 37s9
+17p15 p{16|24P14} 19r12 20m17 21r17 23r14 23r27 24r25 24r38 25r22 25r27
+17*32 k{16|7+14} 21r26 23r12 23r32 24r23 24r43
+17*44 x{16|8+14} 21r28 23r34 24r45
+42U11 traversal 42b11 42=21 42=36 47s17 51s17 56l5 56t14 65s9
+42p21 p{16|24P14} 44r19 46r12 47r27 50r12 51r27
+42i36 contador{integer} 45m9 45r19 47m32 51m32
+62i9 contador{integer} 64m9 65m26 65r26 67r32
+X 18 d_historial_mascota.ads
+3K9*d_historial_mascota 17|3w6 3r31 18|55e24
+X 19 d_historial_visita.ads
+11k9*d_historial_visita 17|2w6 19|38e23
+X 21 defs_general.ads
+4K9*defs_general 16|1w22 2r21 21|51e17
+

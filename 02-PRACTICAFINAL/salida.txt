@@ -1,0 +1,565 @@
+-----------------------------------------------------------------------------------
+simulación
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+ciclo 1
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+Consulta libre: 1
+No hay mascotas en la cola.
+-----------------------------------------------------------------------------------
+ciclo 2
+-----------------------------------------------------------------------------------
+Consulta libre: 1
+Nombre de la mascota: ROXY           
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: ROXY           
+Consulta libre: 1
+Ha entrado en la consulta : 1->ROXY           
+-----------------------------------------------------------------------------------
+ciclo 3
+-----------------------------------------------------------------------------------
+Nombre de la mascota: BABY           
+Tipo de la visita: CU
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: BABY           
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 4
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+Consulta libre: 2
+Ha entrado en la consulta : 2->BABY           
+Se ha acabado la consulta con: ROXY           
+-----------------------------------------------------------------------------------
+ciclo 5
+-----------------------------------------------------------------------------------
+Nombre de la mascota: BUSTER         
+Tipo de la visita: CU
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: BUSTER         
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 6
+-----------------------------------------------------------------------------------
+Nombre de la mascota: DAMA           
+Tipo de la visita: EM
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: DAMA           
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 7
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 8
+-----------------------------------------------------------------------------------
+Nombre de la mascota: GRACIE         
+Tipo de la visita: EM
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: GRACIE         
+no hay consulta disponible
+Se ha acabado la consulta con: BABY           
+-----------------------------------------------------------------------------------
+ciclo 9
+-----------------------------------------------------------------------------------
+Consulta libre: 2
+no ha aparecido ninguna mascota
+Consulta libre: 2
+Ha entrado en la consulta : 2->DAMA           
+-----------------------------------------------------------------------------------
+ciclo 10
+-----------------------------------------------------------------------------------
+Nombre de la mascota: CODY           
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: CODY           
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 11
+-----------------------------------------------------------------------------------
+Nombre de la mascota: ZOE            
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: ZOE            
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 12
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+no hay consulta disponible
+Se ha acabado la consulta con: DAMA           
+-----------------------------------------------------------------------------------
+ciclo 13
+-----------------------------------------------------------------------------------
+Consulta libre: 2
+Nombre de la mascota: SAMMY          
+Tipo de la visita: CI
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: SAMMY          
+Consulta libre: 1
+Ha entrado en la consulta : 1->GRACIE         
+-----------------------------------------------------------------------------------
+ciclo 14
+-----------------------------------------------------------------------------------
+Nombre de la mascota: MISSY          
+Tipo de la visita: CI
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: MISSY          
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 15
+-----------------------------------------------------------------------------------
+Nombre de la mascota: JAKE           
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: JAKE           
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 16
+-----------------------------------------------------------------------------------
+Nombre de la mascota: LUCY           
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: LUCY           
+no hay consulta disponible
+Se ha acabado la consulta con: GRACIE         
+-----------------------------------------------------------------------------------
+ciclo 17
+-----------------------------------------------------------------------------------
+Consulta libre: 1
+no ha aparecido ninguna mascota
+Consulta libre: 1
+Ha entrado en la consulta : 1->SAMMY          
+-----------------------------------------------------------------------------------
+ciclo 18
+-----------------------------------------------------------------------------------
+Nombre de la mascota: MAGGIE         
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: MAGGIE         
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 19
+-----------------------------------------------------------------------------------
+Nombre de la mascota: LARA           
+Tipo de la visita: CU
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: LARA           
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 20
+-----------------------------------------------------------------------------------
+Nombre de la mascota: ROXY           
+Tipo de la visita: CI
+
+se ha rellenado la visita
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 21
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+Consulta libre: 2
+Ha entrado en la consulta : 2->MISSY          
+-----------------------------------------------------------------------------------
+ciclo 22
+-----------------------------------------------------------------------------------
+Nombre de la mascota: LOLA           
+Tipo de la visita: CI
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: LOLA           
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 23
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 24
+-----------------------------------------------------------------------------------
+Nombre de la mascota: ZOE            
+Tipo de la visita: CI
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: ZOE            
+no hay consulta disponible
+Se ha acabado la consulta con: SAMMY          
+-----------------------------------------------------------------------------------
+ciclo 25
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 26
+-----------------------------------------------------------------------------------
+Nombre de la mascota: PONGO          
+Tipo de la visita: CI
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: PONGO          
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 27
+-----------------------------------------------------------------------------------
+Nombre de la mascota: MAGGIE         
+Tipo de la visita: CI
+
+se ha rellenado la visita
+Consulta libre: 1
+Ha entrado en la consulta : 1->LOLA           
+-----------------------------------------------------------------------------------
+ciclo 28
+-----------------------------------------------------------------------------------
+Nombre de la mascota: PLUTO          
+Tipo de la visita: CI
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: PLUTO          
+no hay consulta disponible
+Se ha acabado la consulta con: MISSY          
+-----------------------------------------------------------------------------------
+ciclo 29
+-----------------------------------------------------------------------------------
+Nombre de la mascota: JAKE           
+Tipo de la visita: EM
+
+se ha rellenado la visita
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 30
+-----------------------------------------------------------------------------------
+Nombre de la mascota: OSCAR          
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: OSCAR          
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 31
+-----------------------------------------------------------------------------------
+Nombre de la mascota: SASHA          
+Tipo de la visita: EM
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: SASHA          
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 32
+-----------------------------------------------------------------------------------
+Nombre de la mascota: MAGGIE         
+Tipo de la visita: CU
+
+se ha rellenado la visita
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 33
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 34
+-----------------------------------------------------------------------------------
+Nombre de la mascota: SMOKEY         
+Tipo de la visita: CU
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: SMOKEY         
+no hay consulta disponible
+Se ha acabado la consulta con: LOLA           
+-----------------------------------------------------------------------------------
+ciclo 35
+-----------------------------------------------------------------------------------
+Consulta libre: 1
+Nombre de la mascota: BUTATUR        
+Tipo de la visita: CU
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: BUTATUR        
+Consulta libre: 1
+Ha entrado en la consulta : 1->SASHA          
+-----------------------------------------------------------------------------------
+ciclo 36
+-----------------------------------------------------------------------------------
+Nombre de la mascota: PRINCESA       
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: PRINCESA       
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 37
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 38
+-----------------------------------------------------------------------------------
+Nombre de la mascota: BUDDY          
+Tipo de la visita: CU
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: BUDDY          
+no hay consulta disponible
+Se ha acabado la consulta con: SASHA          
+-----------------------------------------------------------------------------------
+ciclo 39
+-----------------------------------------------------------------------------------
+Consulta libre: 1
+Nombre de la mascota: ROCKY          
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: ROCKY          
+Consulta libre: 1
+Ha entrado en la consulta : 1->PONGO          
+-----------------------------------------------------------------------------------
+ciclo 40
+-----------------------------------------------------------------------------------
+Nombre de la mascota: GOLFO          
+Tipo de la visita: CI
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: GOLFO          
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 41
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 42
+-----------------------------------------------------------------------------------
+Nombre de la mascota: SCOOBY         
+Tipo de la visita: CU
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: SCOOBY         
+Consulta libre: 2
+Ha entrado en la consulta : 2->PLUTO          
+-----------------------------------------------------------------------------------
+ciclo 43
+-----------------------------------------------------------------------------------
+Nombre de la mascota: BELLA          
+Tipo de la visita: CU
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: BELLA          
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 44
+-----------------------------------------------------------------------------------
+Nombre de la mascota: BEETHOVEN      
+Tipo de la visita: CU
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: BEETHOVEN      
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 45
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 46
+-----------------------------------------------------------------------------------
+Nombre de la mascota: GRACIE         
+Tipo de la visita: CI
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: GRACIE         
+no hay consulta disponible
+Se ha acabado la consulta con: PONGO          
+-----------------------------------------------------------------------------------
+ciclo 47
+-----------------------------------------------------------------------------------
+Nombre de la mascota: PRECIOSOS      
+Tipo de la visita: EM
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: PRECIOSOS      
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 48
+-----------------------------------------------------------------------------------
+Nombre de la mascota: BABY           
+Tipo de la visita: EM
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: BABY           
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 49
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+no hay consulta disponible
+Se ha acabado la consulta con: PLUTO          
+-----------------------------------------------------------------------------------
+ciclo 50
+-----------------------------------------------------------------------------------
+Consulta libre: 2
+Nombre de la mascota: GOLFO          
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Consulta libre: 2
+Ha entrado en la consulta : 2->PRECIOSOS      
+-----------------------------------------------------------------------------------
+ciclo 51
+-----------------------------------------------------------------------------------
+Nombre de la mascota: CODY           
+Tipo de la visita: EM
+
+se ha rellenado la visita
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 52
+-----------------------------------------------------------------------------------
+Nombre de la mascota: RUSTY          
+Tipo de la visita: CU
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: RUSTY          
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 53
+-----------------------------------------------------------------------------------
+Nombre de la mascota: MOLLY          
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: MOLLY          
+no hay consulta disponible
+Se ha acabado la consulta con: PRECIOSOS      
+-----------------------------------------------------------------------------------
+ciclo 54
+-----------------------------------------------------------------------------------
+Consulta libre: 2
+Nombre de la mascota: PRINCESA       
+Tipo de la visita: CI
+
+se ha rellenado la visita
+Consulta libre: 2
+Ha entrado en la consulta : 2->BABY           
+-----------------------------------------------------------------------------------
+ciclo 55
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 56
+-----------------------------------------------------------------------------------
+Nombre de la mascota: JAKE           
+Tipo de la visita: RE
+
+se ha rellenado la visita
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 57
+-----------------------------------------------------------------------------------
+Nombre de la mascota: TOBY           
+Tipo de la visita: EM
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: TOBY           
+no hay consulta disponible
+Se ha acabado la consulta con: BABY           
+-----------------------------------------------------------------------------------
+ciclo 58
+-----------------------------------------------------------------------------------
+Consulta libre: 2
+Nombre de la mascota: PLUTO          
+Tipo de la visita: EM
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: PLUTO          
+Consulta libre: 2
+Ha entrado en la consulta : 2->TOBY           
+-----------------------------------------------------------------------------------
+ciclo 59
+-----------------------------------------------------------------------------------
+Nombre de la mascota: CHARLIE        
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: CHARLIE        
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 60
+-----------------------------------------------------------------------------------
+no ha aparecido ninguna mascota
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 61
+-----------------------------------------------------------------------------------
+Nombre de la mascota: ROCKY          
+Tipo de la visita: RE
+
+se ha rellenado la visita
+no hay consulta disponible
+Se ha acabado la consulta con: TOBY           
+-----------------------------------------------------------------------------------
+ciclo 62
+-----------------------------------------------------------------------------------
+Consulta libre: 2
+Nombre de la mascota: CASEY          
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: CASEY          
+Consulta libre: 2
+Ha entrado en la consulta : 2->PLUTO          
+-----------------------------------------------------------------------------------
+ciclo 63
+-----------------------------------------------------------------------------------
+Nombre de la mascota: CHLOE          
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: CHLOE          
+Consulta libre: 1
+Ha entrado en la consulta : 1->GOLFO          
+-----------------------------------------------------------------------------------
+ciclo 64
+-----------------------------------------------------------------------------------
+Nombre de la mascota: HARLEY         
+Tipo de la visita: CI
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: HARLEY         
+no hay consulta disponible
+-----------------------------------------------------------------------------------
+ciclo 65
+-----------------------------------------------------------------------------------
+Nombre de la mascota: ZOE            
+Tipo de la visita: RE
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: ZOE            
+no hay consulta disponible
+Se ha acabado la consulta con: PLUTO          
+-----------------------------------------------------------------------------------
+ciclo 66
+-----------------------------------------------------------------------------------
+Nombre de la mascota: RILEY          
+Tipo de la visita: CI
+
+se ha rellenado la visita
+Se ha insertado en la lista de espera: RILEY          
+Consulta libre: 2
+Ha entrado en la consulta : 2->GRACIE         
