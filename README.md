@@ -1,2 +1,2 @@
-# UIB-Informatica
-Prácticas de asignaturas de Ingeniería Informática
+# UIB - Information technology
+Stuff from IT subjects
