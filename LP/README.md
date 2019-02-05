@@ -2,4 +2,4 @@
 
 Implemented using Lisp
 
-Images generades using Python
+Images generated using Python
