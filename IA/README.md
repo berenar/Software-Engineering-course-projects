@@ -1,2 +1,2 @@
 # Checkers game implementation
-Using Android Studio
+Minimax algorithm using Alpha-Beta Pruning on Android Studio
