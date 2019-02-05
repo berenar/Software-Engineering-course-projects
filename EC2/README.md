@@ -2,4 +2,4 @@
 
 Flappy Bird videogame coded in MC68000 assembly language using the EASy68K environment.
 
-![flapi68000](https://github.com/berenar/EC2/FLAPI.PNG)
+![flapi68000](https://github.com/berenar/EC2/JOC/FLAPI.PNG)
