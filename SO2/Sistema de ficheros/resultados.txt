@@ -1,0 +1,1800 @@
+PID: 23503
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 0
+	Posicion: 381066
+Última escritura
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 50
+	Posicion: 212322
+Mayor posición
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 18
+	Posicion: 484475
+Menor posición
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 28
+	Posicion: 2299
+PID: 23504
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 0
+	Posicion: 198247
+Última escritura
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 50
+	Posicion: 404097
+Mayor posición
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 41
+	Posicion: 461192
+Menor posición
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 20
+	Posicion: 8238
+PID: 23505
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 0
+	Posicion: 129479
+Última escritura
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 50
+	Posicion: 40115
+Mayor posición
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 16
+	Posicion: 480835
+Menor posición
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 9
+	Posicion: 711
+PID: 23506
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 0
+	Posicion: 445557
+Última escritura
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 50
+	Posicion: 27318
+Mayor posición
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 25
+	Posicion: 493045
+Menor posición
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 42
+	Posicion: 7460
+PID: 23507
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 0
+	Posicion: 331923
+Última escritura
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 50
+	Posicion: 21119
+Mayor posición
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 45
+	Posicion: 497349
+Menor posición
+	Fecha: Sat 2017-06-17 10:32:59
+	nEscritura: 14
+	Posicion: 3919
+PID: 23508
+Numero escrituras: 51
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 0
+	Posicion: 497663
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 50
+	Posicion: 338512
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 0
+	Posicion: 497663
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 5
+	Posicion: 4378
+PID: 23509
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 0
+	Posicion: 10119
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 50
+	Posicion: 479823
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 29
+	Posicion: 491361
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 0
+	Posicion: 10119
+PID: 23513
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 0
+	Posicion: 133703
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 50
+	Posicion: 288106
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 45
+	Posicion: 494476
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 20
+	Posicion: 12511
+PID: 23514
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 0
+	Posicion: 474434
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 50
+	Posicion: 354992
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 20
+	Posicion: 479392
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 40
+	Posicion: 11253
+PID: 23515
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 0
+	Posicion: 89817
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 50
+	Posicion: 308589
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 24
+	Posicion: 491853
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:00
+	nEscritura: 17
+	Posicion: 26049
+PID: 23516
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 0
+	Posicion: 392177
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 50
+	Posicion: 320665
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 20
+	Posicion: 487707
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 16
+	Posicion: 7548
+PID: 23517
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 0
+	Posicion: 247135
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 50
+	Posicion: 259132
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 33
+	Posicion: 474099
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 32
+	Posicion: 11797
+PID: 23518
+Numero escrituras: 51
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 0
+	Posicion: 320600
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 50
+	Posicion: 242563
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 14
+	Posicion: 491591
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 15
+	Posicion: 157
+PID: 23519
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 0
+	Posicion: 95318
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 50
+	Posicion: 127040
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 27
+	Posicion: 492431
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 30
+	Posicion: 2996
+PID: 23520
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 0
+	Posicion: 354892
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 50
+	Posicion: 276051
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 43
+	Posicion: 454451
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 9
+	Posicion: 3793
+PID: 23521
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 0
+	Posicion: 439378
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 50
+	Posicion: 202204
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 19
+	Posicion: 442421
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:01
+	nEscritura: 21
+	Posicion: 3621
+PID: 23522
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 0
+	Posicion: 321427
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 50
+	Posicion: 351837
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 24
+	Posicion: 491888
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 48
+	Posicion: 1896
+PID: 23523
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 0
+	Posicion: 373561
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 50
+	Posicion: 483754
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 28
+	Posicion: 484659
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 22
+	Posicion: 15214
+PID: 23524
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 0
+	Posicion: 61187
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 50
+	Posicion: 291400
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 18
+	Posicion: 463620
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 16
+	Posicion: 24790
+PID: 23525
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 0
+	Posicion: 95969
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 50
+	Posicion: 477615
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 19
+	Posicion: 486653
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 20
+	Posicion: 11534
+PID: 23526
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 0
+	Posicion: 103216
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 50
+	Posicion: 124989
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 40
+	Posicion: 480900
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 27
+	Posicion: 30428
+PID: 23527
+Numero escrituras: 51
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 0
+	Posicion: 483967
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 50
+	Posicion: 333795
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 24
+	Posicion: 485708
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 42
+	Posicion: 27759
+PID: 23528
+Numero escrituras: 51
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 0
+	Posicion: 112652
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 50
+	Posicion: 37182
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 42
+	Posicion: 482827
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 22
+	Posicion: 7648
+PID: 23529
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 0
+	Posicion: 29422
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 50
+	Posicion: 63373
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 45
+	Posicion: 490790
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 16
+	Posicion: 2742
+PID: 23530
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 0
+	Posicion: 221202
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 50
+	Posicion: 61605
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 14
+	Posicion: 479020
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:02
+	nEscritura: 15
+	Posicion: 6058
+PID: 23531
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 0
+	Posicion: 336288
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 50
+	Posicion: 205434
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 9
+	Posicion: 469999
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 36
+	Posicion: 36014
+PID: 23532
+Numero escrituras: 51
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 0
+	Posicion: 407690
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 50
+	Posicion: 282373
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 17
+	Posicion: 499316
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 23
+	Posicion: 13285
+PID: 23533
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 0
+	Posicion: 71317
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 50
+	Posicion: 188510
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 43
+	Posicion: 496897
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 38
+	Posicion: 168
+PID: 23535
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 0
+	Posicion: 126438
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 50
+	Posicion: 20290
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 14
+	Posicion: 477410
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 40
+	Posicion: 11564
+PID: 23536
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 0
+	Posicion: 112183
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 50
+	Posicion: 159564
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 15
+	Posicion: 452172
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 48
+	Posicion: 341
+PID: 23537
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 0
+	Posicion: 88495
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 49
+	Posicion: 494119
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 49
+	Posicion: 494119
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 2
+	Posicion: 4991
+PID: 23538
+Numero escrituras: 51
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 0
+	Posicion: 433265
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 50
+	Posicion: 90601
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 23
+	Posicion: 496636
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 26
+	Posicion: 14821
+PID: 23539
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 0
+	Posicion: 99476
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 50
+	Posicion: 149518
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 1
+	Posicion: 468246
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:03
+	nEscritura: 4
+	Posicion: 12497
+PID: 23540
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 0
+	Posicion: 160135
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 50
+	Posicion: 212788
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 40
+	Posicion: 471511
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 17
+	Posicion: 9846
+PID: 23541
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 0
+	Posicion: 423632
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 50
+	Posicion: 213700
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 10
+	Posicion: 489246
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 26
+	Posicion: 12199
+PID: 23542
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 0
+	Posicion: 104617
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 50
+	Posicion: 51196
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 42
+	Posicion: 492874
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 48
+	Posicion: 6855
+PID: 23543
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 0
+	Posicion: 254308
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 50
+	Posicion: 259756
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 29
+	Posicion: 466018
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 8
+	Posicion: 22606
+PID: 23544
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 0
+	Posicion: 34642
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 50
+	Posicion: 72181
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 34
+	Posicion: 493532
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 11
+	Posicion: 16342
+PID: 23545
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 0
+	Posicion: 209037
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 50
+	Posicion: 343518
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 5
+	Posicion: 482248
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 39
+	Posicion: 2989
+PID: 23546
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 0
+	Posicion: 247541
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 50
+	Posicion: 238660
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 4
+	Posicion: 481753
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 13
+	Posicion: 482
+PID: 23547
+Numero escrituras: 51
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 0
+	Posicion: 397586
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 50
+	Posicion: 60019
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 40
+	Posicion: 485570
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 17
+	Posicion: 1952
+PID: 23548
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 0
+	Posicion: 11435
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 50
+	Posicion: 83883
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 8
+	Posicion: 491826
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 0
+	Posicion: 11435
+PID: 23549
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 0
+	Posicion: 43843
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 50
+	Posicion: 313454
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 1
+	Posicion: 464218
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:04
+	nEscritura: 23
+	Posicion: 15027
+PID: 23550
+Numero escrituras: 51
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 0
+	Posicion: 485153
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 50
+	Posicion: 433266
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 0
+	Posicion: 485153
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 45
+	Posicion: 2636
+PID: 23551
+Numero escrituras: 51
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 0
+	Posicion: 414499
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 50
+	Posicion: 196081
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 40
+	Posicion: 499932
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 48
+	Posicion: 11828
+PID: 23552
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 0
+	Posicion: 108559
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 50
+	Posicion: 88875
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 7
+	Posicion: 466412
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 10
+	Posicion: 8284
+PID: 23553
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 0
+	Posicion: 392421
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 50
+	Posicion: 101004
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 13
+	Posicion: 449908
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 20
+	Posicion: 1917
+PID: 23554
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 0
+	Posicion: 263205
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 50
+	Posicion: 329971
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 40
+	Posicion: 472258
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 12
+	Posicion: 9415
+PID: 23555
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 0
+	Posicion: 17737
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 50
+	Posicion: 266381
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 3
+	Posicion: 466031
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 15
+	Posicion: 17382
+PID: 23556
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 0
+	Posicion: 407150
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 50
+	Posicion: 448161
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 36
+	Posicion: 467656
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 20
+	Posicion: 2139
+PID: 23557
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 0
+	Posicion: 114491
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 50
+	Posicion: 49762
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 29
+	Posicion: 491421
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 44
+	Posicion: 2887
+PID: 23559
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 0
+	Posicion: 200414
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 50
+	Posicion: 329422
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 17
+	Posicion: 493855
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 6
+	Posicion: 8063
+PID: 23560
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 0
+	Posicion: 6302
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 50
+	Posicion: 477421
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 8
+	Posicion: 495443
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 48
+	Posicion: 1820
+PID: 23561
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 0
+	Posicion: 431407
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 50
+	Posicion: 317173
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 24
+	Posicion: 485148
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:05
+	nEscritura: 34
+	Posicion: 778
+PID: 23562
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 0
+	Posicion: 281804
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 50
+	Posicion: 478221
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 3
+	Posicion: 494862
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 39
+	Posicion: 15799
+PID: 23563
+Numero escrituras: 51
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 0
+	Posicion: 168292
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 50
+	Posicion: 138658
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 9
+	Posicion: 499159
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 46
+	Posicion: 24066
+PID: 23564
+Numero escrituras: 51
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 0
+	Posicion: 385359
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 50
+	Posicion: 5789
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 20
+	Posicion: 484917
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 50
+	Posicion: 5789
+PID: 23565
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 0
+	Posicion: 381359
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 50
+	Posicion: 402077
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 24
+	Posicion: 495822
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 35
+	Posicion: 7803
+PID: 23566
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 0
+	Posicion: 342543
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 50
+	Posicion: 433624
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 17
+	Posicion: 482270
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 46
+	Posicion: 1741
+PID: 23567
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 0
+	Posicion: 414394
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 50
+	Posicion: 293781
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 2
+	Posicion: 491702
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 32
+	Posicion: 19283
+PID: 23568
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 0
+	Posicion: 74427
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 50
+	Posicion: 425852
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 10
+	Posicion: 461039
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 39
+	Posicion: 3666
+PID: 23569
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 0
+	Posicion: 368898
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 50
+	Posicion: 457557
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 34
+	Posicion: 466429
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:06
+	nEscritura: 47
+	Posicion: 6828
+PID: 23570
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 76627
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 225876
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 1
+	Posicion: 478219
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 8
+	Posicion: 926
+PID: 23571
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 440804
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 107064
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 35
+	Posicion: 471400
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 15
+	Posicion: 3773
+PID: 23572
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 474931
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 97572
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 474931
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 14
+	Posicion: 15472
+PID: 23573
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 272545
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 96417
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 41
+	Posicion: 463517
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 23
+	Posicion: 6933
+PID: 23574
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 95129
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 490675
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 490675
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 9
+	Posicion: 5237
+PID: 23575
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 181865
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 373376
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 20
+	Posicion: 460270
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 29
+	Posicion: 3812
+PID: 23576
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 210283
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 283984
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 3
+	Posicion: 487083
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 1
+	Posicion: 34672
+PID: 23577
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 392846
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 53259
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 13
+	Posicion: 478789
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 45
+	Posicion: 8292
+PID: 23578
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 284175
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 87298
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 13
+	Posicion: 480887
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 45
+	Posicion: 4799
+PID: 23579
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 226374
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 297412
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 32
+	Posicion: 495150
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 2
+	Posicion: 6986
+PID: 23580
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 213840
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 176603
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 28
+	Posicion: 493875
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 9
+	Posicion: 17791
+PID: 23581
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 396464
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 437714
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 29
+	Posicion: 495687
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 31
+	Posicion: 19458
+PID: 23582
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 191600
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 391129
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 1
+	Posicion: 491622
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 4
+	Posicion: 8255
+PID: 23583
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 0
+	Posicion: 127617
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 50
+	Posicion: 410147
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 30
+	Posicion: 460989
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:07
+	nEscritura: 8
+	Posicion: 10260
+PID: 23584
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 0
+	Posicion: 144964
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 50
+	Posicion: 281376
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 29
+	Posicion: 494700
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 48
+	Posicion: 1646
+PID: 23585
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 0
+	Posicion: 326138
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 50
+	Posicion: 230897
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 46
+	Posicion: 463731
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 17
+	Posicion: 619
+PID: 23586
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 0
+	Posicion: 388057
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 50
+	Posicion: 171303
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 11
+	Posicion: 461670
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 48
+	Posicion: 988
+PID: 23587
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 0
+	Posicion: 319664
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 50
+	Posicion: 227974
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 18
+	Posicion: 478993
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 13
+	Posicion: 31000
+PID: 23588
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 0
+	Posicion: 297166
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 50
+	Posicion: 322677
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 23
+	Posicion: 483481
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 14
+	Posicion: 6020
+PID: 23589
+Numero escrituras: 51
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 0
+	Posicion: 178115
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 50
+	Posicion: 89680
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 46
+	Posicion: 499981
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 23
+	Posicion: 14104
+PID: 23590
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 0
+	Posicion: 187052
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 50
+	Posicion: 212805
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 10
+	Posicion: 471261
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 42
+	Posicion: 2390
+PID: 23591
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 0
+	Posicion: 140232
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 50
+	Posicion: 374638
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 24
+	Posicion: 476355
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 16
+	Posicion: 3246
+PID: 23592
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 1
+	Posicion: 442989
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 50
+	Posicion: 195231
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 29
+	Posicion: 497126
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 6
+	Posicion: 10678
+PID: 23593
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 0
+	Posicion: 182191
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 50
+	Posicion: 455259
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 25
+	Posicion: 494210
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:08
+	nEscritura: 24
+	Posicion: 33140
+PID: 23594
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 0
+	Posicion: 53197
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 50
+	Posicion: 427156
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 9
+	Posicion: 463681
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 37
+	Posicion: 2460
+PID: 23595
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 0
+	Posicion: 118079
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 50
+	Posicion: 122613
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 16
+	Posicion: 476391
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 5
+	Posicion: 14688
+PID: 23596
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 0
+	Posicion: 204942
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 50
+	Posicion: 436870
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 34
+	Posicion: 486015
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 29
+	Posicion: 11249
+PID: 23597
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 0
+	Posicion: 160346
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 50
+	Posicion: 306565
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 16
+	Posicion: 476699
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 20
+	Posicion: 9295
+PID: 23598
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 0
+	Posicion: 61370
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 50
+	Posicion: 216304
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 44
+	Posicion: 482054
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 11
+	Posicion: 13834
+PID: 23599
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 0
+	Posicion: 197907
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 50
+	Posicion: 85843
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 19
+	Posicion: 435054
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 4
+	Posicion: 4554
+PID: 23600
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 0
+	Posicion: 177616
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 50
+	Posicion: 341597
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 49
+	Posicion: 492962
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 8
+	Posicion: 6965
+PID: 23601
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 0
+	Posicion: 121503
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 50
+	Posicion: 421324
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 20
+	Posicion: 480152
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 49
+	Posicion: 19331
+PID: 23602
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 0
+	Posicion: 331759
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 50
+	Posicion: 449407
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 23
+	Posicion: 483922
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 21
+	Posicion: 17684
+PID: 23603
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 0
+	Posicion: 488622
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 50
+	Posicion: 87001
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 0
+	Posicion: 488622
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:09
+	nEscritura: 43
+	Posicion: 5317
+PID: 23604
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 0
+	Posicion: 223376
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 50
+	Posicion: 10585
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 18
+	Posicion: 466624
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 50
+	Posicion: 10585
+PID: 23605
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 0
+	Posicion: 216380
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 50
+	Posicion: 47288
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 1
+	Posicion: 482764
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 26
+	Posicion: 12261
+PID: 23606
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 0
+	Posicion: 320366
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 50
+	Posicion: 209299
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 31
+	Posicion: 477156
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 11
+	Posicion: 7819
+PID: 23607
+Numero escrituras: 50
+Primera escritura
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 0
+	Posicion: 77562
+Última escritura
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 50
+	Posicion: 108227
+Mayor posición
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 46
+	Posicion: 464705
+Menor posición
+	Fecha: Sat 2017-06-17 10:33:10
+	nEscritura: 44
+	Posicion: 1910

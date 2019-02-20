@@ -1,0 +1,25 @@
+///////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////MI_LINK.C/////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+#include "directorios.h"
+
+
+
+int main(int argc, char **argv){
+
+	if(argc!=4){
+		printf("Número de argumentos incorrecto \n");
+		return -1;
+	}
+
+	bmount(argv[1]);	//Monta disco
+
+	if(mi_link(argv[2], argv[3])<0){
+		printf("Error al enlazar el fichero o directorio \n");
+	}else{
+	}
+
+	bumount();	//Desnonta disco
+
+	return 0;
+}

@@ -1,0 +1,201 @@
+Verificando proceso con PID: 23956
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23958
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23955
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23948
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23957
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23966
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23963
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23983
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23965
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23986
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23987
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23990
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23993
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23994
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24002
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23998
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24000
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24004
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24005
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23960
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24010
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24009
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24012
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24016
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23968
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23969
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24020
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24023
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24022
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24017
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23967
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23944
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24024
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24026
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24027
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23973
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23947
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23959
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23979
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23977
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23975
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23978
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24032
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24030
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23980
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23981
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23953
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23954
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23938
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23982
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23936
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23961
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23962
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23964
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23984
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23985
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23988
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23989
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23991
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23992
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23997
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24001
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24006
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24007
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24008
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24011
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24013
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24014
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24015
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23971
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24018
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24021
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23941
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23970
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24019
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23942
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23943
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23976
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23945
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23972
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23946
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23974
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24031
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24033
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24029
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23949
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24034
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23940
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23950
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23951
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23952
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23937
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23935
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23996
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23995
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23999
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24003
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24025
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 24028
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificando proceso con PID: 23939
+ERROR: directorios.c: mi_read: Error en buscar entrada
+Verificacion finalizada

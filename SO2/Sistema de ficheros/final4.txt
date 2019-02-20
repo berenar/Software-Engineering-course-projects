@@ -1,0 +1,200 @@
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
+1
+ERROR: directorios.c: mi_read: Error en buscar entrada
